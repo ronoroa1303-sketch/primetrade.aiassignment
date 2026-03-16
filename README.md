@@ -122,7 +122,7 @@ bitcoin_sentiment_analysis/
    ```
 
 5. **Run the notebook:**
-   - Open `analysis.ipynb` in Jupyter
+   - Open `notebook.ipynb` in Jupyter
    - Run cells sequentially from the beginning
    - All charts and insights will be generated automatically
 
