@@ -132,4 +132,4 @@ This project is for educational purposes as part of a data science internship as
 
 ## Author
 
-Data Science Intern | 2024
+Harsh Nautiyal| Data Science Intern 
